@@ -16,3 +16,11 @@
 
 **Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
 
+### Day 2: June 23, 2021
+
+**Today's Progress**: Finished the attack command for mly discord bot. I created a weapon model and migration for the "dropping" of items by monsters
+
+**Thoughts:** I have no idea how I'm going to create a bag system, and how that will play with data in the PostgresDB. I'm thinking when a monster dies and it "drops" it's items those items will be copied and stored in some type of array or list in the database, associated with the user's character? Not sure if there is a way to point to the records in the table without deleting the records when the item is moved from their bag. I just need a system of pointers...?
+
+**Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
+
