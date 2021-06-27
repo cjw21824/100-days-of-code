@@ -32,5 +32,13 @@
 
 **Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
 
+### Day 4: June 27, 2021
+
+**Today's Progress**: Implemented drop system for killing mobs
+
+**Thoughts:** didn't get to the bag implementation, due to fighting over relationship queries. I was able to get the drop system in place, so mobs drop a random item depending on a "roll". If the roll is past a certain threshold the chance to get rarer items increases.
+
+**Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
+
 
 
