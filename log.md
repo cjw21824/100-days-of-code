@@ -24,3 +24,13 @@
 
 **Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
 
+### Day 3: June 26, 2021
+
+**Today's Progress**: Implemented a bag table and model for my discord bot
+
+**Thoughts:** Lots of work tomorrow to get this bag log set up for the character. Also need to work on populating the weapons bag with some type of script. It would be cool if I could pull in all of the weapons from some existing weapons database. I could then populate my own rarity and stat values.
+
+**Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
+
+
+
