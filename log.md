@@ -40,5 +40,12 @@
 
 **Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
 
+### Day 4: June 29, 2021
+
+**Today's Progress**: Started a scraping project to grab dofus asssets
+
+**Thoughts:** Okay, I ran into a bot called poketwo for discord, and I just had a lightbulb of, "Why am I trying to come up with everything on my own, when I could just get all the assets from a game I love!" I'll still have all the features I want, but I can have it themed off of dofus. I'm going to open source the bot as well, since I imagine there are copyright issues with making money off a game with assets based on a real game. 
+
+**Link to work:** https://github.com/cjw21824/scrapus/
 
 
