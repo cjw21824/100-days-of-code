@@ -56,3 +56,10 @@
 
 **Link to work:** https://github.com/cjw21824/scrapus/
 
+### Day 7: July 1st, 2021
+
+**Today's Progress**: Learned all about threading and the threadpoolexecuter!
+
+**Thoughts:** Threading is fun, and can lead to fun unexpected results! I was able to run the selenium webdriver for chrome in multiple threads, chewing through generated URLs 5x faster than I would otherwise! Time to start scraping all the character data from each page and putting it somewhere! I'll have to put the images in the lfs, and the rest of the data in the db. I'll have to keep a field for referencing the correct image as well. 
+
+**Link to work:** https://github.com/cjw21824/scrapus/
