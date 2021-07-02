@@ -40,7 +40,7 @@
 
 **Link to work:** Still no link :). Access upon request, or maybe you can add it to your discord server one of these days! It needs a website, I know...
 
-### Day 4: June 29, 2021
+### Day 5: June 29, 2021
 
 **Today's Progress**: Started a scraping project to grab dofus asssets
 
@@ -48,4 +48,11 @@
 
 **Link to work:** https://github.com/cjw21824/scrapus/
 
+### Day 6: June 30, 2021
+
+**Today's Progress**: Gathered and formatted URLs for each monster's page
+
+**Thoughts:** fought with pandas table scraping with no real luck, so I pivoted to findign the href of each row and putting it in a queue for further processing. From there I'll go to each moster's page and grab the info I need. Things like name, type, level, characteristics, drops, drop images, monster image, etc 
+
+**Link to work:** https://github.com/cjw21824/scrapus/
 
