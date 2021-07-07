@@ -63,3 +63,11 @@
 **Thoughts:** Threading is fun, and can lead to fun unexpected results! I was able to run the selenium webdriver for chrome in multiple threads, chewing through generated URLs 5x faster than I would otherwise! Time to start scraping all the character data from each page and putting it somewhere! I'll have to put the images in the lfs, and the rest of the data in the db. I'll have to keep a field for referencing the correct image as well. 
 
 **Link to work:** https://github.com/cjw21824/scrapus/
+
+### Day 8: July 6th, 2021
+
+**Today's Progress**: Implement the logic to scrape all of the monster's characteristics
+
+**Thoughts:** Scraping can be fun, it can also make me pull out my hair. I finally found a way to scrape the necessary info without too much code being written. Still seems overly complicated but at least I was able to reuse a lot of the code for each piece of info. 
+
+**Link to work:** https://github.com/cjw21824/scrapus/
