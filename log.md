@@ -71,3 +71,11 @@
 **Thoughts:** Scraping can be fun, it can also make me pull out my hair. I finally found a way to scrape the necessary info without too much code being written. Still seems overly complicated but at least I was able to reuse a lot of the code for each piece of info. 
 
 **Link to work:** https://github.com/cjw21824/scrapus/
+
+### Day 9: July 7th, 2021
+
+**Today's Progress**: Implement Image scraping
+
+**Thoughts:** More scraping! Luckily with urllib, I was able to quickly save the images with the name I need for future reference.  
+
+**Link to work:** https://github.com/cjw21824/scrapus/
