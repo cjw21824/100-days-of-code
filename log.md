@@ -79,3 +79,11 @@
 **Thoughts:** More scraping! Luckily with urllib, I was able to quickly save the images with the name I need for future reference.  
 
 **Link to work:** https://github.com/cjw21824/scrapus/
+
+### Day 10: July 8th, 2021
+
+**Today's Progress**: Store images in Azure blob storage
+
+**Thoughts:** Don't put your images on LFS, when you can easily use blob storage :). Using the azure python sdk is a breeze! I want to start working on infrastructure, but I feel like I need some type of history for the bot, so I don't overwrite work done in the past. This would be in situations where I push new code to production. I also need to work on putting the monster data in a database. I need to re-run migrations to fit the new schema.   
+
+**Link to work:** https://github.com/cjw21824/scrapus/
